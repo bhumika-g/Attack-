@@ -1,2 +1,2 @@
 # Attack-
-Computer simulation of multi player dice game
+Computer simulation of a multi player dice game
